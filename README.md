@@ -88,7 +88,7 @@ No requiere compilación ni dependencias: es JavaScript vanilla. Para probar cam
 
 ### Licencia
 
-Consulta el archivo [LICENSE](LICENSE). Este proyecto es un fork; la licencia distingue entre las aportaciones propias y el código heredado del proyecto original.
+Consulta [LICENSE](LICENSE) para la licencia MIT de las aportaciones propias y [NOTICE.md](NOTICE.md) para el alcance y la autoría del código heredado del proyecto original.
 
 ---
 
@@ -176,4 +176,4 @@ No build step or dependencies are required: it is vanilla JavaScript. To test ch
 
 ### License
 
-See the [LICENSE](LICENSE) file. This project is a fork; the license distinguishes between the author's own contributions and the code inherited from the original project.
+See [LICENSE](LICENSE) for the MIT license covering the author's own contributions and [NOTICE.md](NOTICE.md) for the scope and attribution of the code inherited from the original project.
